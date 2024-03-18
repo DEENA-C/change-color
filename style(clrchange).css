@@ -1,0 +1,22 @@
+.div1
+{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+}
+.div2
+{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    
+}.div3
+{
+    background-color: orchid;
+    width: 200px;
+    height: 200px;
+    display:inline-block;
+    
+}
